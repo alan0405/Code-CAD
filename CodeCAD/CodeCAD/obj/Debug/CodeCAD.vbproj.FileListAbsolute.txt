@@ -1,0 +1,12 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\CodeCAD\bin\Debug\CodeCAD.exe.config
+I:\CodeCAD\CodeCAD\CodeCAD\bin\Debug\CodeCAD.exe.config
+I:\CodeCAD\CodeCAD\CodeCAD\bin\Debug\CodeCAD.exe
+I:\CodeCAD\CodeCAD\CodeCAD\bin\Debug\CodeCAD.pdb
+I:\CodeCAD\CodeCAD\CodeCAD\bin\Debug\CodeCAD.xml
+I:\CodeCAD\CodeCAD\CodeCAD\obj\Debug\Interop.AutoCAD.dll
+I:\CodeCAD\CodeCAD\CodeCAD\obj\Debug\CodeCAD.vbproj.ResolveComReference.cache
+I:\CodeCAD\CodeCAD\CodeCAD\obj\Debug\CodeCAD.Resources.resources
+I:\CodeCAD\CodeCAD\CodeCAD\obj\Debug\CodeCAD.vbproj.GenerateResource.Cache
+I:\CodeCAD\CodeCAD\CodeCAD\obj\Debug\CodeCAD.exe
+I:\CodeCAD\CodeCAD\CodeCAD\obj\Debug\CodeCAD.xml
+I:\CodeCAD\CodeCAD\CodeCAD\obj\Debug\CodeCAD.pdb
